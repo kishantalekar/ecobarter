@@ -126,5 +126,5 @@ EcoBarter simplifies the process of selling recyclable materials, making it easi
 
 For any questions or support related to the project, please contact:
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/kishan-talekar-2613b8260/)
-- Twitter: [Your Twitter Profile](https://x.com/KishanTalekar)
+- LinkedIn: [Kishantalekar](https://www.linkedin.com/in/kishan-talekar-2613b8260/)
+- Twitter: [Kishantalekar](https://x.com/KishanTalekar)
