@@ -1,4 +1,4 @@
-# EcoBarter
+# EcoBarter built with flutter
 
 EcoBarter is an innovative mobile application designed to bridge the gap between local scrap collectors and customers.
 
